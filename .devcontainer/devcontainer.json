@@ -17,8 +17,8 @@
 			"userGid": "1000",
 			"upgradePackages": "true"
 		},
-    "ghcr.io/jsburckhardt/devcontainer-features/opencode:1": {},
-		"ghcr.io/devcontainers/features/git:1": {
+    "ghcr.io/stu-bell/devcontainer-features/open-code:0": {},
+	"ghcr.io/devcontainers/features/git:1": {
 			"version": "latest",
 			"ppa": "false"
 		}
