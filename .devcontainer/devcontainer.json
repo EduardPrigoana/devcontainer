@@ -5,6 +5,9 @@
 	},
 
 	"features": {
+	"ghcr.io/devcontainers/features/node:1": {
+    	"version": "lts"
+  	},
     "ghcr.io/audacioustux/devcontainers/bun:1": {},
     "ghcr.io/devcontainer-config/features/dot-config:3": {},
 		"ghcr.io/devcontainers/features/common-utils:2": {
