@@ -5,7 +5,6 @@
 	},
 
 	"features": {
-    "ghcr.io/audacioustux/devcontainers/bun:1": {},
 		"ghcr.io/devcontainers/features/common-utils:2": {
 			"installZsh": "true",
 			"username": "vscode",
@@ -13,11 +12,6 @@
 			"userGid": "1000",
 			"upgradePackages": "true"
 		},
-    "ghcr.io/stu-bell/devcontainer-features/open-code:0": {},
-	"ghcr.io/devcontainers/features/git:1": {
-			"version": "latest",
-			"ppa": "false"
-		}
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
